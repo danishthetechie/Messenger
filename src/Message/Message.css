@@ -1,0 +1,20 @@
+.Msg_card{
+    width: fit-content;
+    padding: 1px;
+    margin: 10px;
+}
+
+.Msg_user{
+    margin-left: auto;
+    text-align: left;
+    color: #ffffff;
+}
+
+.Message_own{
+    background-color: #0568d1 !important;
+    color: #ffffff !important;
+}
+
+.Message_guest{
+    background-color: #e9e9eb !important;
+}
